@@ -1,0 +1,32 @@
+.container{
+    margin: 100px;
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    position: relative;
+}
+.container button{
+    padding: 20px;
+    position: relative;
+    top: 10%;
+    left: 20%;
+}
+
+.container button{
+    border-radius: 50%;
+    border: 2.5px solid green;
+    background-color: rgb(233, 183, 91);
+}
+
+.container input{
+    width: 210px;
+    height: 40px;
+    border-color: white;
+    border-radius: 5%;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 10%;
+    left: 20%;
+}
